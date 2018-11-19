@@ -22,6 +22,7 @@
             定了矩阵式二维条码所代表的意义。
         （2）具有代表性的矩阵式二维条码有：Code One、MaxiCode、QR Code、 Data Matrix、Han Xin Code、
             Grid Matrix 等。
+![image](https://github.com/HaijunMa/QR-Code/raw/master/image/11.jpg)
 
 # 概述
   #####   Python二维码生成器
