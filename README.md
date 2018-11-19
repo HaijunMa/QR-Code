@@ -86,7 +86,8 @@
 - 动态GIF二维码
         
     - 动态二维码与上述的带图片的二维码的生成方法没什么区别，你只要采用 .gif 格式的图片即可生成黑白或者彩色的动态二维码。但注意如果使用了 -n 参数自定义输出的文件名，切记其格式也必须是 .gif 格式。
-![image](https://github.com/HaijunMa/QR-Code/raw/master/image/5.gif)
+![image](https://github.com/HaijunMa/QR-Code/raw/master/image/9.gif)
+![image](https://github.com/HaijunMa/QR-Code/raw/master/image/10.gif)
 
  # 作为导入文件
  
