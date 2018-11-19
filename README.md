@@ -61,7 +61,8 @@
               · 自定义：可以自己定义输出名称和位置。注意同名文件会覆盖旧的；
                         -n 控制文件名，格式可以是 .jpg， .png ，.bmp ，.gif ；
                         -d 控制位置。
-                        
+![image](https://github.com/HaijunMa/QR-Code/raw/master/image/1.jpg)
+
 - 艺术二维码
 
        （1）myqr https://github.com -p github.jpg
@@ -76,11 +77,17 @@
        
             · 参数-con 用以调节图片的对比度，1.0 表示原始图片，更小的值表示更低对比度，更大反之。默认为1.0。
             · 参数 -bri 用来调节图片的亮度，其余用法和取值与 -con 相同。
+![image](https://github.com/HaijunMa/QR-Code/raw/master/image/2.jpg)
+![](https://github.com/HaijunMa/QR-Code/raw/master/image/3.jpg)
+![image](https://github.com/HaijunMa/QR-Code/raw/master/image/4.png)
+![image](https://github.com/HaijunMa/QR-Code/raw/master/image/7.png)
+![image](https://github.com/HaijunMa/QR-Code/raw/master/image/8.png)
             
 - 动态GIF二维码
         
     - 动态二维码与上述的带图片的二维码的生成方法没什么区别，你只要采用 .gif 格式的图片即可生成黑白或者彩色的动态二维码。但注意如果使用了 -n 参数自定义输出的文件名，切记其格式也必须是 .gif 格式。
-    
+![image](https://github.com/HaijunMa/QR-Code/raw/master/image/5.gif)
+
  # 作为导入文件
  
      #安装模块后
